@@ -1,6 +1,8 @@
-# Hi, I'm Renaud: ADMINISTRATEUR SYSTÈMES, RÉSEAUX & SECURITÉ
+# Hi, I'm Renaud, Administrateur systèmes & réseaux  
 
-### Projets réalisés dans le cadre du parcours de formation OpenClassrooms: [Administrateur systèmes, réseaux et sécurité](https://openclassrooms.com/fr/paths/734-administrateur-systemes-reseaux-et-securite)
+## Parcours de formation OpenClassrooms: [Administrateur systèmes, réseaux et sécurité](https://openclassrooms.com/fr/paths/734-administrateur-systemes-reseaux-et-securite)
+
+Projets réalisés et technologies apprises au cours des différents projets : ITIL, GLPI, Linux, Windows Server, Active Directory, composants Cisco, passerelles VPN et autres composants de sécurité réseau, services httpd, SQL, SFTP, modules de types Netfilter ou Fail2ban, hyperviseur (VirtualBox & VmWare), Nagios, rsync,  PowerShell, AWS, Ansible.
 
 - PROJET 1 : [Démarrez votre formationd'Administrateur Systèmes,Réseaux et Sécurité](./OC_AdminSystèmesRéseauxSécurité/P01/README.md)
 - PROJET 2 : [Gérez les demandes au quotidien](./OC_AdminSystèmesRéseauxSécurité/P02/README.md)
