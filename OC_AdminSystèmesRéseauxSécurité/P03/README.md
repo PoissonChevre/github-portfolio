@@ -1,17 +1,35 @@
-# Hi, I'm Renaud: ADMINISTRATEUR SYSTÈMES, RÉSEAUX & SECURITÉ
+# **0C** - Formation administrateur systèmes, réseaux et sécurité  
 
-### Projets réalisés dans le cadre du parcours de formation OpenClassrooms: [Administrateur systèmes, réseaux et sécurité](https://openclassrooms.com/fr/paths/734-administrateur-systemes-reseaux-et-securite)
+## PROJET 3 ***["Mettez en place et documentez le réseau local d'une startup"](https://openclassrooms.com/fr/paths/734/projects/1381/assignment)***
 
-- PROJET 1 : [Démarrez votre formationd'Administrateur Systèmes,Réseaux et Sécurité]()
-- PROJET 2 : [Gérez les demandes au quotidien]()
-- PROJET 3 : [Mettez en place et documentez le réseau local d'une startup]()
-- PROJET 4 : [Déployez une architecture ntiers pour une PME]()
-- PROJET 5 : [Mettez en place des services web sécurisés]()
-- PROJET 6 : [Raccordez une entité et ses postes de travail au SI de votre entreprise]()
-- PROJET 7 : [Configurez des services réseaux et des équipements d'interconnexion]()
-- PROJET 8 : [Supervisez le SI d'une entreprise]()
-- PROJET 9 : [Gérez le parc informatique d'une PME]()
-- PROJET 10 : [Mettez en place une nouvelle solution de sauvegarde]()
-- PROJET 11 : [Sécurisez le réseau d'une grande entreprise]()
-- PROJET 12 : [Évaluez et améliorez le niveaude sécurité d'un domaine associé]()
-- PROJET 13 : [Gérez une migration vers le cloud]()
+### 1. missions
+
+Concevoir et implémenter l'infrastructure réseau du nouveau bâtiment de l'entreprise Hill Start, comprenant :
+
+1. Schéma physique du réseau :
+Positionnement des équipements selon les plans du bâtiment.
+Capacité de chaque switch, en lien avec le cahier des charges.
+![schéma_physique_](./P3_schéma_physique2_062023.png)  
+
+1. Schéma logique du réseau :
+Création et configuration des VLAN (noms, adresses réseaux, masques).
+Règles de connexion entre les VLAN.
+![schéma_logigque](P3_schéma_logique1_062023.png)  
+
+1. Plan d'adressage réseau :
+Allocation des adresses IP (DHCP et statiques).
+Définition des adresses de broadcast et des masques de sous-réseau.
+![plan_adressage](./Vlans.png)  
+
+### 2. compétences acquises
+
+- Concevoir la cartographie d'un réseau
+- Construire un réseau TCP-IP
+- Formaliser les procédures via une documentation technique
+
+### 3. ressources consultés pour la réalisation du projet
+
+- ["Maîtrisez vos applications et réseaux TCP/IP"](https://openclassrooms.com/fr/courses/2340511-maitrisez-vos-applications-et-reseaux-tcp-ip)  
+- ["Concevez votre réseau TCP/IP"](https://openclassrooms.com/fr/courses/6944606-concevez-votre-reseau-tcp-ip)  
+- [MTU path discovery](https://fr.wikipedia.org/wiki/Path_MTU_discovery)
+- [Guide de l'ANSSI sur la cartographie d'un système d'information](https://cyber.gouv.fr/publications/cartographie-du-systeme-dinformation)
