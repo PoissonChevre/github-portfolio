@@ -18,11 +18,11 @@ Projets réalisés et technologies apprises au cours des différents projets : I
 - PROJET 6 : [Raccordez une entité et ses postes de travail au SI de votre entreprise](./OC_AdminSystèmesRéseauxSécurité/P06/README.md)
 - PROJET 7 : [Configurez des services réseaux et des équipements d'interconnexion](./OC_AdminSystèmesRéseauxSécurité/P07/README.md)
 - PROJET 8 : [Supervisez le SI d'une entreprise](./OC_AdminSystèmesRéseauxSécurité/P08/README.md)
-- PROJET 9 : [Gérez le parc informatique d'une PME](https://github.com/PoissonChevre/ansible_P9)
+- PROJET 9 : [Gérez le parc informatique d'une PME](https://github.com/PoissonChevre/ansible_OC_P9/blob/master/README.md)
 - PROJET 10 : [Mettez en place une nouvelle solution de sauvegarde](./OC_AdminSystèmesRéseauxSécurité/P10/README.md)
-- PROJET 11 : [Sécurisez le réseau d'une grande entreprise](./OC_AdminSystèmesRéseauxSécurité/P11/README.md)
-- PROJET 12 : [Évaluez et améliorez le niveaude sécurité d'un domaine associé](./OC_AdminSystèmesRéseauxSécurité/P12/README.md)
-- PROJET 13 : [Gérez une migration vers le cloud](./OC_AdminSystèmesRéseauxSécurité/P13/README.md)
+- PROJET 11 : [Sécurisez le réseau d'une grande entreprise]
+- PROJET 12 : [Évaluez et améliorez le niveaude sécurité d'un domaine associé]
+- PROJET 13 : [Gérez une migration vers le cloud]
 
 ## Learn Linux TV : [Apprenez Proxmox Virtual Environment](https://www.learnlinux.tv/proxmox-full-course/)
 
