@@ -12,14 +12,14 @@ Projets réalisés et technologies apprises au cours des différents projets : I
 
 - PROJET 1 : Démarrez votre formation d'Administrateur Systèmes, Réseaux et Sécurité
 - PROJET 2 : Gérez les demandes au quotidien
-- PROJET 3 : [Mettez en place et documentez le réseau local d'une startup](./OC_AdminSystèmesRéseauxSécurité/P03/README.md)
+- PROJET 3 : [Mettez en place et documentez le réseau local d'une startup](https://github.com/PoissonChevre/networkHillStart_OC_P3)
 - PROJET 4 : [Déployez une architecture ntiers pour une PME](./OC_AdminSystèmesRéseauxSécurité/P04/README.md)
 - PROJET 5 : Mettez en place des services web sécurisés
 - PROJET 6 : Raccordez une entité et ses postes de travail au SI de votre entreprise
 - PROJET 7 : Configurez des services réseaux et des équipements d'interconnexion
 - PROJET 8 : Supervisez le SI d'une entreprise
-- PROJET 9 : [Gérez le parc informatique d'une PME](https://github.com/PoissonChevre/ansible_OC_P9/blob/master/README.md)
-- PROJET 10 : [Mettez en place une nouvelle solution de sauvegarde](./OC_AdminSystèmesRéseauxSécurité/P10/README.md)
+- PROJET 9 : [Gérez le parc informatique d'une PME](hhttps://github.com/PoissonChevre/ansible_OC_P9)
+- PROJET 10 : [Mettez en place une nouvelle solution de sauvegarde](https://github.com/PoissonChevre/rsync_OC_P10))
 - PROJET 11 : Sécurisez le réseau d'une grande entreprise
 - PROJET 12 : Évaluez et améliorez le niveaude sécurité d'un domaine associé
 - PROJET 13 : Gérez une migration vers le cloud
