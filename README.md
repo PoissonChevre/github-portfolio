@@ -1,4 +1,10 @@
-# Bonjour,je suis Renaud, Administrateur systèmes & réseaux  
+# Bonjour,  bienvenue sur mon portfolio!
+
+Après plus de 15 ans dans l'audiovisuel, j'ai choisi de me reconvertir dans l'IT. Fort de ma curiosité et de mon esprit autodidacte, je me spécialise désormais dans l’administration système, réseau et sécurité. Mon parcours de formation m'a permis de développer des compétences à travers divers projets professionnels.
+Vous trouverez ici une sélection de mes projets récents, où j'ai appliqué des solutions pour relever différents défis.  
+Chaque projet reflète mon engagement à apprendre continuellement.
+
+Bonne visite !
 
 ## Parcours de formation OpenClassrooms: [Administrateur systèmes, réseaux et sécurité](https://openclassrooms.com/fr/paths/734-administrateur-systemes-reseaux-et-securite)
 
@@ -17,3 +23,7 @@ Projets réalisés et technologies apprises au cours des différents projets : I
 - PROJET 11 : [Sécurisez le réseau d'une grande entreprise](./OC_AdminSystèmesRéseauxSécurité/P11/README.md)
 - PROJET 12 : [Évaluez et améliorez le niveaude sécurité d'un domaine associé](./OC_AdminSystèmesRéseauxSécurité/P12/README.md)
 - PROJET 13 : [Gérez une migration vers le cloud](./OC_AdminSystèmesRéseauxSécurité/P13/README.md)
+
+## [Learn Linux TV : Apprenez Proxmox Virtual Environment](https://www.learnlinux.tv/proxmox-full-course/)
+
+Proxmox Virtual Environment est une solution de virtualisation exceptionnelle, tout comme Kubernetes l'est pour la conteneurisation. Pourquoi ne pas combiner ces deux technologies formidables ? Dans cette section, je partage un projet où j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme. Vous verrez comment j'ai réussi à mettre en place un cluster opérationnel.
