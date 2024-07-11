@@ -24,9 +24,11 @@ Projets réalisés et technologies apprises au cours des différents projets : I
 - PROJET 12 : Évaluez et améliorez le niveaude sécurité d'un domaine associé
 - PROJET 13 : Gérez une migration vers le cloud
 
-## Learn Linux TV : [Apprenez Proxmox Virtual Environment](https://www.learnlinux.tv/proxmox-full-course/)
+## Learn Linux TV : [Apprenez Proxmox Virtual Environment](https://github.com/PoissonChevre/proxmox)
 
-Proxmox Virtual Environment est une solution de virtualisation exceptionnelle, tout comme Kubernetes l'est pour la conteneurisation. Je partage ici un projet où j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme. Vous verrez comment j'ai réussi à mettre en place un cluster opérationnel.
+Proxmox Virtual Environment est une solution de virtualisation exceptionnelle, tout comme Kubernetes l'est pour la conteneurisation. Je partage ici un projet où j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme. Dans ce cours d'initiation, je partage comment j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme.
+
+- https://github.com/PoissonChevre/proxmox
 
 ## Udemy : [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
 
