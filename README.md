@@ -39,3 +39,8 @@ Dans le cadre de mon apprentissage continu, je me prépare à passer la certific
 ## Learn Linux TV : [Apprenez Proxmox Virtual Environment](https://github.com/PoissonChevre/proxmox)
 
 Proxmox Virtual Environment est une solution de virtualisation exceptionnelle, tout comme Kubernetes l'est pour la conteneurisation. Je partage ici un projet où j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme. Dans ce cours d'initiation, je partage comment j'ai configuré un cluster Kubernetes à partir de zéro en utilisant Proxmox comme plateforme.
+
+## AWS CLOUD: [AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc)
+
+J'ai complété avec succès le cours de certification AWS Certified Cloud Practitioner (CLF-C01), ce qui atteste de ma compréhension fondamentale des services et des solutions proposés par Amazon Web Services (AWS). Ce programme m'a permis d'acquérir une solide compréhension des concepts de cloud computing, des services AWS essentiels, ainsi que des principes de sécurité et de gestion des coûts. Grâce à cette certification, je suis en mesure de concevoir et de gérer des solutions cloud efficaces tout en appliquant les meilleures pratiques en matière de sécurité et de conformité. Cette qualification renforce ma capacité à travailler avec les technologies AWS et à contribuer efficacement à des projets cloud.  
+<https://www.exampro.co/clf-c02>  
